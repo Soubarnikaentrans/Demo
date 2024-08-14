@@ -8,6 +8,7 @@ pandas
 langchain-community
 python-dotenv
 pdfminer.six
-pinecone
 os
-dotenv
+sys
+pdf_extractor
+glob
