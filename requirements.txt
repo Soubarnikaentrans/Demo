@@ -8,7 +8,6 @@ pandas
 langchain-community
 python-dotenv
 pdfminer.six
-os
 sys
 pdf_extractor
 glob
