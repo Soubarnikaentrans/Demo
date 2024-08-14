@@ -1,0 +1,13 @@
+langchain-huggingface
+langchain
+langchain-core
+langchain-pinecone
+pdfservices-sdk
+langchain-google-genai
+pandas
+langchain-community
+python-dotenv
+pdfminer.six
+pinecone
+os
+dotenv
